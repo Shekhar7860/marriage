@@ -12,6 +12,7 @@ import image5 from '../assets/image5.jpg'
 import image6 from '../assets/image6.jpg'
 
 function Home() {
+  console.log('render')
   return (
     <div className='App'>
     <div className='card-container'>
